@@ -116,7 +116,8 @@ public class OperatiiLogice {
 
         }
         return (result/count);
-        }
+        
+    }
 
 }
 
